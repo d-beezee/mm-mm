@@ -73,6 +73,8 @@
     "Icon": "🍕️",
     "Public_Instance": "0",
     "Remote_Instance": "1",
+       "level": "info",
     "Global_Proxy": "0"
+     
   }
 }
